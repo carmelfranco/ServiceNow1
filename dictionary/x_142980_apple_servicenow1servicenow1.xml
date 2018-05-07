@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Servicenow1" max_length="40" name="x_142980_apple_servicenow1servicenow1" type="collection">
+        <element label="Name" max_length="1000" name="u_name" type="string"/>
+    </element>
+</database>
